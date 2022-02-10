@@ -1,0 +1,15 @@
+// Poalelungi Gabriel 331CC
+// Test Personal 3
+
+func first(a string) int {
+    a = "LFA"
+    k, l, m, n := 8, 9.7, false, "wow"
+    var x float32 = 8.9
+    var b float32 = x
+    var c string = b
+
+    var d int = a
+    var e bool = n
+
+    return d
+}

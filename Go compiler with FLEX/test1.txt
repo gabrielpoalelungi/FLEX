@@ -1,0 +1,27 @@
+// Poalelungi Gabriel 331CC
+/*
+    Test personal 1
+*/
+
+func firstfunc(a string, b float32, c int) int {
+    a = 6
+    b = "wpw"
+    c = 9.2
+    
+    a = "wow"
+    b = 8.9
+    c = 10
+
+    return a
+}
+
+func secondfunc(a, b float32, c int) float32 {
+    a = 6
+    b = "wpw"
+
+    a = 9.0
+    b = 8.9
+    c = 10
+
+    return b
+}

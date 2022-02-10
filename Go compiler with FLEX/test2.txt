@@ -1,0 +1,20 @@
+// Poalelungi Gabriel 331CC
+// Test personal 2
+
+func first(a string, b, c bool) {
+    var x string = a
+    var d bool = c
+    b = true
+    var d int = 5
+
+    return x
+}
+
+func second() float32 {
+    var x float32 = 8.6
+    a, b, c := 5, 8.6, "LFA"
+    var d string = x
+    var e int = c
+    x := 8
+    return a
+}
